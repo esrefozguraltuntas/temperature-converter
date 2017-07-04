@@ -1,6 +1,3 @@
-
-
-// starting 6.2
 package com.packtpub.mastering.selenium.steps;
 import cucumber.annotation.After;
 import cucumber.annotation.Before;
