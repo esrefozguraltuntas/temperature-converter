@@ -13,7 +13,6 @@ import java.util.concurrent.TimeUnit;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 
-
 /**
  * Created by OZGUR-FAIRBIT on 7/3/2017.
  */
